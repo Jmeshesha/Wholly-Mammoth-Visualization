@@ -1,2 +1,11 @@
 # Wholly-Mammoth-Visualization
-A 3D visualization of a Wholly Mammoth using Unity. It was created as a final presentation for ESCI 1003, a class at the University of Minnesota.
+This is a 3D vizualization slideshow of a wholly mammoth and its fossil for my ESCI 1003 Final. 
+
+
+
+
+
+## Contributions
+
+
+
