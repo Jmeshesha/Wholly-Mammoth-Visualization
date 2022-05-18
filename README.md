@@ -5,7 +5,7 @@ This is a 3D vizualization slideshow of a woolly mammoth and its fossil for my E
 
 
 ## Installation
-Download the build here.
+Download [the build here](https://github.com/Jmeshesha/Woolly-Mammoth-Visualization/releases/download/v1.0.0/Mammoth-Visualization-Windows.zip).
 
 Naviagate to 
 
